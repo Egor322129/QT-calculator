@@ -1,2 +1,2 @@
 # QT-calculator
-My first experience at the QT Creator
+My first experience in the QT Creator
